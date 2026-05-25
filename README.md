@@ -1,11 +1,6 @@
 # 💫 About Me:
-Hi there! 👋 I'm Himanshu Bhatt<br>I'm a Computer Science Engineering student at Graphic Era Hill University, passionate about software development, machine learning, and cloud computing. I enjoy working on machine learning projects, full-stack development, and leveraging technology to solve real-world problems.<br><br>💻 Tech Stack: C, C++, Python, SQL<br>🚀 Projects: AI & ML models, web applications, and cloud-based solutions<br>📌 Core Subjects: Operating Systems (OS), Database Management Systems (DBMS), Computer Networks (CN)<br>🎓 Certifications: Data Science, Java OOPs, Hackathon finalist<br>🔗 Connect with me: https://github.com/HimanshuBhatt8341 | https://www.linkedin.com/in/himanshu-bhatt-32baaa229/
+Hi there! 👋 I'm Harsh sharma <br>I'm a Computer Science Engineering student at Graphic Era Hill University, passionate about software development, machine learning, and cloud computing. I enjoy working on machine learning projects, full-stack development, and leveraging technology to solve real-world problems.<br><br>💻 Tech Stack: C, C++, Python, SQL<br>🚀 Projects: AI & ML models, web applications, and cloud-based solutions<br>📌 Core Subjects: Operating Systems (OS), Database Management Systems (DBMS), Computer Networks (CN)<br>🎓 Certifications: Data Science, Java OOPs, Hackathon finalist<br>🔗 Connect with me: https://github.com/HimanshuBhatt8341 | https://www.linkedin.com/in/himanshu-bhatt-32baaa229/
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-bhatt-32baaa229/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@HimanshuBhatt0077) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshubhatt8341@gmail.com)
 
 
 # 💻 Tech Stack:
