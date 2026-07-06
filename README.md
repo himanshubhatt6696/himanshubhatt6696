@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Harsh sharma <br>I'm a Computer Science Engineering student at Graphic Era Hill University, passionate about software development, machine learning, and cloud computing. I enjoy working on machine learning projects, full-stack development, and leveraging technology to solve real-world problems.<br><br>💻 Tech Stack: C, C++, Python, SQL<br>🚀 Projects: AI & ML models, web applications, and cloud-based solutions<br>📌 Core Subjects: Operating Systems (OS), Database Management Systems (DBMS), Computer Networks (CN)<br>🎓 Certifications: Data Science, Java OOPs, Hackathon finalist<br>
+Hi there! 👋 I'm Himanshu Bhatt <br>I'm a Computer Science Engineering student at Graphic Era Hill University, passionate about software development, machine learning, and cloud computing. I enjoy working on machine learning projects, full-stack development, and leveraging technology to solve real-world problems.<br><br>💻 Tech Stack: C, C++, Python, SQL<br>🚀 Projects: AI & ML models, web applications, and cloud-based solutions<br>📌 Core Subjects: Operating Systems (OS), Database Management Systems (DBMS), Computer Networks (CN)<br>🎓 Certifications: Data Science, Java OOPs, Hackathon finalist<br>
 
 
 
